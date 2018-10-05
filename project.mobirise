@@ -1,0 +1,636 @@
+{
+  "settings": {
+    "name": "Site-09-15_1519",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#ff0000"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.2",
+    "siteFonts": [],
+    "uniqCompNum": 24,
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mura-2-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/A2DWdoOMAWo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=A2DWdoOMAWo",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SELAMAT DATANG<br>DI OBJEK WISATA MURUNG RAYA",
+          "text": "Murung Raya merupakan salah satu Kabupaten di Kalimantan Tengah yang memiliki objek wisata Air Terjun yang sangat eksotis untuk di jadikan destinasi wisatawan lokal maupun mancanegara.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#gallery1-3\" data-toolbar=\"-mbrBtnMove\">N E X T</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"http://murungrayakab.go.id\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PORTAL</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff",
+              "font-size": "60px",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/YSpcDgcOZCk",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "POTENSI WISATA MURUNG RAYA",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Potensi Wisata di Murung Raya begitu banyak dan mempunyai keindahan yang luar biasa kami rangkum dalam video di antaranya objek wisata Air Terjun Bunbun, Air Terjun Kahatoi, Air Terjun Tosah, Air Terjun Manimang, Air Terjun Babuat, Air Terjun Belatung dan Sungai Riam Atas.&nbsp;</p><p><br></p><p>Inilah objek wisata yang harus anda tahu......</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#gallery1-3\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>LEBIH LANJUT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-l"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#f7da64",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/tosah2-3-1350x721.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tosah2-3-1350x721-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"index.html#msg-box5-m\">Wisata Air Terjun Tosah</a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bumbun-1353x760.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bumbun-1353x760-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"index.html#msg-box4-j\">Wisata Air Terjun Bumbun</a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/belatung-1350x670.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/belatung-1350x670-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Air Terjun Balatung",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/kahatoi2-1350x682.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kahatoi2-1350x682-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Air Terjun Kahatoi",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/manimang3-1350x756.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/manimang3-1350x756-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Air Terjun Manimang",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/riam-1350x748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/riam-1350x748-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Air Riam Atas",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dirung-761x507.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dirung-761x507-608x342.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Air Terjun Dirung",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/liang-panan-896x555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/liang-panan-896x555-716x403.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Wisata Liang Pandan",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/wgzwyAlVnQw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=wgzwyAlVnQw",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tosah2-2-1350x721.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "WISATA AIR TERJUN TOSAH",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Air Terjun Tosah terletak di Desa Muara Ja'an, Kecamatan Murung, Kabupaten Murung Raya, Propinsi Kalimantan Tengah. Dengan jarak tempuh sekitar 45 menit dari kota Puruk Cahu.\n<div>\n</div><div><br></div><div>Rute :\n</div><div>Untuk menuju Air Terjun Tosah Anda harus melewati Rute jalan ke Muara Teweh. Setelah sampai di simpang 4 ambil jalur kanan menuju Ibukota Palangkaraya lebih kurang 3 kilometer. Kemudian sebelum anda sampai ke jembatan Bakal, anda akan ditemui suatu jalan kecil dan jalan itulah yang nanti nya membawa anda sampai ke Wisata Air Terjun Tosah.&nbsp;</div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.google.com/maps/place/Air+Terjun+Tosah/@-0.7322684,114.5687872,10.92z/data=!4m5!3m4!1s0x0:0x958ef9e936c723c1!8m2!3d-0.778244!4d114.6052749?hl=en-GB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span>PETA LOKASI</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1281.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/wgzwyAlVnQw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=wgzwyAlVnQw",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/bumbun-1-1353x760.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WISATA AIR TERJUN BUNBUN",
+          "text": "<p>Lokasi\t\t\t: Kec. Uut Murung\n</p><p>Jarak Tempuh\t: ± 100 Km\n</p><p>Alat Transportasi\t: Kendaraan Roda Dua dan Roda Empat\n</p><p>Potensi\t\t: Panorama keindahan air terjun dan alam serta\n</p><p>&nbsp; &nbsp; &nbsp; Arung Jeram.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span>PETA LOKASI</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f97352",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/wgzwyAlVnQw?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=wgzwyAlVnQw",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/belatung-1-1350x670.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "WISATA AIR TERJUN BELATUNG",
+          "text": "<p>Wisata Air Terjun Belatung berbatasan dengan Kalimantan Timur yaitu Desa Topus.</p><p>Perjalanan dapat ditempuh selama 2 hari dari Kota Puruk Cahu yang terletak di Kecamatan Uut Murung Kabupaten Murung Raya Provinsi Kalimantan Tengah</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://map.google.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-pin mbr-iconfont mbr-iconfont-btn\"></span>PETA LOKASI</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "TESTIMONIAL",
+          "items": [
+            {
+              "authorName": "SUCIPTO",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Setelah melihat sendiri wisata Air Terjun yang berada di Murung Raya, saya terkejut dengan keindahan alamnya yang begitu asri dan sejuk, ternyata sangat bagus dan cocok untuk tempat kita melepaskan lelah......”</p>"
+            },
+            {
+              "authorName": "RICHARD",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Kalau menurut saya Objek Wisata yang di Murung Raya sangat bagus terutama wisata airnya yang sangat dingin dan alami, apalagi saya hoby berenang sangat cocok untuk saya berenang.............”</p>"
+            },
+            {
+              "authorName": "TORI",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Awalnya saya tidak begitu tertarik waktu teman-teman membicarakanya, eh ternyata saya salah pas saya ikut berkunjung........ dan wow .....tempatnya sangat indah dan pemandanganya luar biasa.... :)”</p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-h",
+          "testimonial": [
+            {
+              "authorName": "SUCIPTO",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Setelah melihat sendiri wisata Air Terjun yang berada di Murung Raya, saya terkejut dengan keindahan alamnya yang begitu asri dan sejuk, ternyata sangat bagus dan cocok untuk tempat kita melepaskan lelah......”</p>"
+            },
+            {
+              "authorName": "RICHARD",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Kalau menurut saya Objek Wisata yang di Murung Raya sangat bagus terutama wisata airnya yang sangat dingin dan alami, apalagi saya hoby berenang sangat cocok untuk saya berenang.............”</p>"
+            },
+            {
+              "authorName": "TORI",
+              "authorBio": "User",
+              "text": "<p class=\"mbr-reviews__p\">“Awalnya saya tidak begitu tertarik waktu teman-teman membicarakanya, eh ternyata saya salah pas saya ikut berkunjung........ dan wow .....tempatnya sangat indah dan pemandanganya luar biasa.... :)”</p>"
+            }
+          ]
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3C3C3C",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "e-Government | Diskominfo | Mura | 2018",
+          "text": "Potensi Wisata Murung Raya",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">TOP</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-k"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#7ac673",
+            "hamburgerColor": "#00a885"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#7ac673"
+            },
+            ".mbr-navbar__section": {
+              "background": "#7ac673"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#00a885"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-6\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-4\">HURUF B</a></li>",
+          "logo": {
+            "image": {
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SMART VILLAGE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.8"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3x4-cipto-1-265x352.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "linkInNewWindow": false,
+              "name": "image-slider",
+              "family": "MobiriseIcons",
+              "active": true
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-8"
+        }
+      ]
+    }
+  }
+}

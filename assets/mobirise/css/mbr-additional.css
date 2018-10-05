@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+#header1-2 H1 {
+  color: #ffffff;
+  font-size: 60px;
+  font-family: 'Bitter', serif;
+}
+#header1-2 P {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box5-l .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-j .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-n .mbr-header__text {
+  color: #ffffff;
+  font-size: 22px;
+}
+#msg-box4-n .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-n .mbr-article {
+  color: #ffffff;
+}
+#msg-box1-k .mbr-header .mbr-header__text {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#msg-box1-k .mbr-article {
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+}
+#ext_menu-7 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #7ac673;
+}
+#ext_menu-7 .mbr-navbar__section {
+  background: #7ac673;
+}
+#ext_menu-7 .mbr-navbar__hamburger {
+  color: #00a885;
+}
